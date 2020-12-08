@@ -6,6 +6,11 @@
 
 Bienvenidos al canal de [YouTube](https://www.youtube.com/channel/UCxPD7bsocoAMq8Dj18kmGyQ?sub_confirmation=1) ***MoureDev by Brais Moure***. 
 
+Enlace a la clase con la sintaxis te Kotlin... 
+
+[KOTLIN SINTAXIS](https://github.com/JoshuaValey/KotlinDesdeCero/blob/master/app/src/main/java/com/mouredev/kotlinparaprincipiantes/MainActivity.kt)
+
+
 Soy Brais Moure, desarrollador de software freelance. Comparto tutoriales sobre desarrollo de aplicaciones **iOS** y **Android**.
 
 ## Descripción
